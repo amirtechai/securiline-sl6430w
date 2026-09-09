@@ -1,0 +1,83 @@
+{
+  "brand": "Securiline",
+  "brandTaglineEn": "Professional Security Solutions",
+  "brandTaglineTr": "Güvenlik Sistemleri",
+  "model": "SL 6430W",
+  "sku": "SL6430W",
+  "mpn": "SL-6430W",
+  "modelVariants": ["SL 6430W", "SL6430W", "SL-6430W", "sl6430w", "SL 6430 W", "Securiline 6430W"],
+  "name": "Securiline SL 6430W 4MP Full Color PoE IP Bullet Kamera",
+  "shortName": "Securiline SL 6430W",
+  "slug": "securiline-sl-6430w",
+  "category": "Güvenlik Kameraları > IP Kamera > Bullet",
+  "price": 4500,
+  "priceDisplay": "4.500 TL",
+  "currency": "TRY",
+  "availability": "InStock",
+  "condition": "NewCondition",
+  "color": "Beyaz gövde / siyah ön panel",
+  "formFactor": "Bullet (dış mekân), duvar montaj aparatlı",
+  "slogans": ["Güvenliğinizi Her Yerde Hissedin", "Daha Güvenli Bir Yarın İçin"],
+  "tagline": "Securiline IP Kamera ile eviniz, ofisiniz ve iş yeriniz her zaman güvende.",
+  "shortDescription": "Securiline SL 6430W; 4MP Ultra HD çözünürlük, gece/gündüz renkli görüntü (Full Color), PoE tek-kablo bağlantı, IP66 dış mekân koruması, mobil uygulama ile uzaktan erişim ve anlık bildirimli hareket algılama sunan bullet tipi IP güvenlik kamerasıdır.",
+  "longDescription": "Securiline SL 6430W, ev, iş yeri, site ve fabrika gibi her ölçekteki alan için tasarlanmış 4MP Ultra HD IP bullet kameradır. Full Color teknolojisi sayesinde dört adet sıcak beyaz LED ile gece de renkli, net ve detaylı görüntü verir; klasik kızılötesi kameraların siyah-beyaz gece görüntüsünün aksine plaka, kıyafet ve araç renkleri gece de ayırt edilebilir. PoE (Power over Ethernet) desteğiyle tek bir ağ kablosu üzerinden hem güç hem veri taşır; ayrı adaptör ve kablolama gerektirmez. IP66 koruma sınıfı ile yağmur, toz ve dış mekân koşullarına dayanıklıdır. Mobil uygulama üzerinden canlı izleme ve uzaktan erişim sağlar; hareket algıladığında telefonunuza anlık bildirim gönderir.",
+  "features": [
+    {"key": "ip-poe", "title": "IP Kamera (PoE / Network)", "detail": "Tek ağ kablosu ile güç ve veri; ayrı adaptör gerektirmez."},
+    {"key": "full-color", "title": "Gece/Gündüz Renkli Görüntü (Full Color)", "detail": "4 adet sıcak beyaz LED aydınlatma ile gece de renkli görüntü."},
+    {"key": "4mp", "title": "4MP Ultra HD", "detail": "2560×1440 çözünürlük; net ve detaylı görüntü."},
+    {"key": "ip66", "title": "IP66 Suya ve Toza Dayanıklı", "detail": "Dış mekân kullanımına uygun koruma sınıfı."},
+    {"key": "remote", "title": "Uzaktan Erişim (Mobil Uygulama)", "detail": "Telefonunuzdan canlı izleme; HD akış."},
+    {"key": "motion", "title": "Hareket Algılama (Anlık Bildirim)", "detail": "Hareket algılandığında mobil bildirim."}
+  ],
+  "specs": [
+    ["Marka", "Securiline"],
+    ["Model", "SL 6430W"],
+    ["Ürün Kodu", "SL6430W"],
+    ["Kamera Tipi", "IP Bullet Kamera (dış mekân)"],
+    ["Çözünürlük", "4MP Ultra HD (2560×1440)"],
+    ["Gece Görüşü", "Full Color — sıcak beyaz LED aydınlatma (gece renkli görüntü)"],
+    ["Güç / Bağlantı", "PoE (Power over Ethernet) / Network RJ45"],
+    ["Koruma Sınıfı", "IP66 (su ve toza dayanıklı)"],
+    ["Uzaktan Erişim", "Mobil uygulama (iOS / Android) ile canlı izleme"],
+    ["Akıllı Özellik", "Hareket algılama + anlık bildirim"],
+    ["Gövde / Renk", "Beyaz gövde, siyah ön panel, duvar montaj aparatı"],
+    ["Kullanım Alanı", "Ev · İş Yeri · Site · Fabrika"],
+    ["Garanti", "2 yıl (yasal garanti)"],
+    ["Fiyat", "4.500 TL"]
+  ],
+  "useCases": ["Ev", "İş Yeri", "Site", "Fabrika"],
+  "keywords": ["securiline", "securiline kamera", "securiline ip kamera", "securiline sl 6430w", "sl 6430w", "sl6430w", "sl-6430w", "sl 6430 w", "sl 6430w fiyat", "securiline sl 6430w fiyat", "4mp poe ip kamera", "full color bullet kamera", "gece renkli görüntü kamera", "ip66 dış mekan kamera", "poe güvenlik kamerası"],
+  "faq": [
+    {"q": "Securiline SL 6430W fiyatı ne kadar?", "a": "Securiline SL 6430W satış fiyatı 4.500 TL'dir."},
+    {"q": "SL 6430W gece renkli görüntü veriyor mu?", "a": "Evet. Full Color teknolojisi ve 4 adet sıcak beyaz LED sayesinde gece de renkli görüntü sağlar."},
+    {"q": "SL 6430W PoE destekliyor mu?", "a": "Evet. PoE (Power over Ethernet) ile tek ağ kablosu üzerinden hem güç hem veri taşınır; ayrı adaptör gerekmez."},
+    {"q": "Dış mekânda kullanılabilir mi?", "a": "Evet. IP66 koruma sınıfı ile yağmur ve toza karşı dayanıklıdır; bullet gövdesi dış mekân montajı için tasarlanmıştır."},
+    {"q": "Telefondan izlenebilir mi?", "a": "Evet. Mobil uygulama ile uzaktan canlı izleme yapılır; hareket algılandığında anlık bildirim gelir."},
+    {"q": "SL6430W ile SL 6430W aynı ürün mü?", "a": "Evet. SL6430W, SL-6430W ve SL 6430W aynı Securiline modelinin farklı yazımlarıdır."}
+  ],
+  "seo": {
+    "title": "Securiline SL 6430W 4MP Full Color PoE IP Kamera | 4.500 TL",
+    "metaDescription": "Securiline SL 6430W (SL6430W) 4MP Ultra HD, gece/gündüz renkli görüntü (Full Color), PoE, IP66 dış mekân IP bullet güvenlik kamerası. Mobil uygulama, hareket algılama, anlık bildirim. Fiyat: 4.500 TL."
+  },
+  "images": {
+    "productWhite1200": "sl6430w-product-white-1200.jpg",
+    "productWhite800": "sl6430w-product-white-800.jpg",
+    "productWhite600": "sl6430w-product-white-600.jpg",
+    "productTransparent": "sl6430w-product-transparent-1200.png",
+    "productDark": "sl6430w-product-dark-1200.jpg",
+    "lifestyle": "sl6430w-lifestyle-730.jpg",
+    "poster": "sl6430w-poster-1374.jpg",
+    "poster900": "sl6430w-poster-900.jpg",
+    "og": "sl6430w-og-1200x630.jpg",
+    "logoDark": "securiline-logo-dark-680.png"
+  },
+  "assetDir": "/Users/thegun/securiline/assets/web",
+  "rules": [
+    "Yorum, puan, aggregateRating, sertifika, ödül, kuruluş yılı gibi UYDURMA veri EKLEME.",
+    "Hiçbir sayfada 'EGE Güvenlik'in kendi markası / bize ait' ifadesi KULLANMA; marka kendi başına durur. Bayi/satış noktası olarak adlandırmak serbesttir.",
+    "Fiyat her yerde 4.500 TL (4500 TRY).",
+    "Model kodu varyantlarını (SL 6430W, SL6430W, SL-6430W) sayfa metninde doğal biçimde geçir.",
+    "Her ürün sayfasında schema.org Product JSON-LD (brand, sku, mpn, offers price=4500 TRY, image) olsun; aggregateRating OLMASIN.",
+    "Sitenin mevcut tasarım diline/bileşenlerine uy; yeni şablon icat etme."
+  ]
+}
