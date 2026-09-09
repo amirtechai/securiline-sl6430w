@@ -44,8 +44,8 @@ Ev · İş Yeri · Site · Fabrika
 
 - https://securiline.amirtech.ai/satis-noktalari/
 - https://egeweb.amirtech.ai/urunler/securiline-sl-6430w/
-- https://gcteknoloji.com/urun/securiline-sl-6430w
-- https://cagritelekom.com/urun/securiline-sl-6430w
+- https://gcteknoloji.com/urun/inox-kamera/securiline-sl-6430w
+- https://cagri.amirtech.ai/urun/guvenlik-kamerasi/securiline-sl-6430w
 
 ## Datasheet (PDF)
 
