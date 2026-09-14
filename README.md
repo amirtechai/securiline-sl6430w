@@ -6,6 +6,15 @@
 
 [🇬🇧 English summary](README.en.md)
 
+
+## Afişler / Posters
+
+| | |
+|---|---|
+| ![Securiline SL 6430W afiş 1](docs/img/sl6430w-afis-2.jpg) | ![Securiline SL 6430W afiş 2](docs/img/sl6430w-afis-1.jpg) |
+
+🎬 Tanıtım videosu (müzikli): https://securiline.amirtech.ai/video/Securiline-SL-6430W-tanitim-2026.mp4
+
 ## Öne Çıkan Özellikler
 
 - **IP Kamera (PoE / Network)** — Tek ağ kablosu ile güç ve veri; ayrı adaptör gerektirmez.

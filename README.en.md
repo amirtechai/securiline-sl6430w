@@ -50,3 +50,11 @@ This product is also written as **SL 6430W**, **SL6430W**, and **SL-6430W** acro
 ---
 
 © 2026 Securiline · [Türkçe README](README.md)
+
+## Afişler / Posters
+
+| | |
+|---|---|
+| ![Securiline SL 6430W afiş 1](docs/img/sl6430w-afis-2.jpg) | ![Securiline SL 6430W afiş 2](docs/img/sl6430w-afis-1.jpg) |
+
+🎬 Tanıtım videosu (müzikli): https://securiline.amirtech.ai/video/Securiline-SL-6430W-tanitim-2026.mp4
