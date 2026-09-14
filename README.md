@@ -9,9 +9,9 @@
 
 ## Afişler / Posters
 
-| | |
-|---|---|
-| ![Securiline SL 6430W afiş 1](docs/img/sl6430w-afis-2.jpg) | ![Securiline SL 6430W afiş 2](docs/img/sl6430w-afis-1.jpg) |
+| |
+|---|
+| ![Securiline SL 6430W afiş](docs/img/sl6430w-afis-2.jpg) |
 
 🎬 Tanıtım videosu (müzikli): https://securiline.amirtech.ai/video/Securiline-SL-6430W-tanitim-2026.mp4
 
